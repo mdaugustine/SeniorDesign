@@ -1,0 +1,6 @@
+C:\Users\Michael\Desktop\Senior Desig\MarsRover\MarsRover\bin\Debug\MarsRover.exe.config
+C:\Users\Michael\Desktop\Senior Desig\MarsRover\MarsRover\bin\Debug\MarsRover.exe
+C:\Users\Michael\Desktop\Senior Desig\MarsRover\MarsRover\bin\Debug\MarsRover.pdb
+C:\Users\Michael\Desktop\Senior Desig\MarsRover\MarsRover\obj\Debug\MarsRover.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\Senior Desig\MarsRover\MarsRover\obj\Debug\MarsRover.exe
+C:\Users\Michael\Desktop\Senior Desig\MarsRover\MarsRover\obj\Debug\MarsRover.pdb
